@@ -11,7 +11,7 @@ Ciao! Mi chiamo Luca e sono uno sviluppatore full-stack con una grande passione 
 - ✉️ Contattami: [luca.vigano@hotmail.com](mailto:luca.vigano@hotmail.com)  
 - 🤝 Aperto a **collaborazioni** e nuove sfide  
 - 🚀 Scopri i miei progetti su [GitHub](https://github.com/LucaVigano)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-vigan%C3%B2-58302b269/)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&labelColor=black&color=blue)](https://www.linkedin.com/in/luca-vigan%C3%B2-58302b269/)
 
 ---
 
