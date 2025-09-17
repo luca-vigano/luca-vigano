@@ -10,7 +10,7 @@ Ciao! Mi chiamo Luca e sono uno sviluppatore full-stack con una grande passione 
 - 🌍 **Verano Brianza (MB), Italia**  
 - ✉️ Contattami: [luca.vigano@hotmail.com](mailto:luca.vigano@hotmail.com)  
 - 🤝 Aperto a **collaborazioni** e nuove sfide  
-- 🚀 Scopri i miei progetti su [GitHub](https://github.com/luca-vigano](https://github.com/luca-vigano?tab=repositories&q=&type=public&language=&sort=)  
+- 🚀 Scopri i miei progetti su [GitHub](https://github.com/luca-vigano?tab=repositories&q=&type=public&language=&sort=)  
 
 
 ---
